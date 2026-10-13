@@ -1,0 +1,31 @@
+{
+  "name": "Cedar Hollow storefront",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "postCreateCommand": "git config --global pull.rebase false",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "GitHub.copilot-chat",
+        "ms-vscode.live-server"
+      ],
+      "settings": {
+        "git.autofetch": true,
+        "github.copilot.chat.codeGeneration.useInstructionFiles": true
+      }
+    },
+    "codespaces": {
+      "openFiles": [
+        "README.md",
+        "products.html"
+      ]
+    }
+  },
+  "forwardPorts": [
+    3000
+  ],
+  "portsAttributes": {
+    "3000": {
+      "label": "Live Preview"
+    }
+  }
+}

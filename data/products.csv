@@ -1,0 +1,7 @@
+name,roast,bag_size,price,tasting_notes,status,image
+Hollow Morning,Medium,12 oz whole bean,15.00,"Milk chocolate, toasted almond",In stock,images/hollow-morning.svg
+Creek Bend Dark,Dark,12 oz whole bean,16.00,"Dark cocoa, molasses",In stock,images/creek-bend-dark.svg
+Sunrise Field,Light,12 oz whole bean,17.00,"Orange peel, honey",Sold out until spring,images/sunrise-field.svg
+Cedar Smoke,Dark,12 oz whole bean,16.00,"Campfire, brown sugar",In stock,images/cedar-smoke.svg
+Market Day Decaf,Medium,12 oz whole bean,16.00,"Caramel, walnut",In stock,images/market-day-decaf.svg
+Old Mill Espresso,Medium dark,12 oz whole bean,18.00,"Dark cherry, cocoa",In stock,images/old-mill-espresso.svg
